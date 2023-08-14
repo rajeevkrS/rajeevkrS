@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeev Kumar Sudhansu</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 
 - 📫 How to reach me **rajeevkumarr1221@gmail.com**
 
