@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajeev Kumar Sudhansu</h1>
-<h3 align="center">Front-End Web Developer and programming enthusiat looking for an entry-level opportunity to launch my IT career in a company that encourages professional development to work at a company that advances my career and provide hands-on experince.</h3>
+<h3 align="center">Full Stack Web Developer and programming enthusiat looking for an entry-level opportunity to launch my IT career in a company that encourages professional development to work at a company that advances my career and provide hands-on experince.</h3>
 
 - 📫 How to reach me **rajeevkumarr1221@gmail.com**
 
